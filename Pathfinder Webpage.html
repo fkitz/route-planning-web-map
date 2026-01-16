@@ -67,7 +67,7 @@
         view.ui.add(searchwidget, "bottom-left");
         // Adds the search widget to the bottom-left of the MapView
 
-        printing = new Print({
+        var printing = new Print({
           view: view,
           printServiceUrl:
             "https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
@@ -88,4 +88,5 @@
     <div id="viewDiv"></div>
     <!-- Background set to cornflower blue, white text is centered, map viewing pane marked as a separate section -->
   </body>
+
 </html>
