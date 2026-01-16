@@ -7,3 +7,5 @@ As part of my [GIS Certificate](https://continuing.torontomu.ca/public/category/
 * Address search bar
 * Export route option (.pdf or .jpg)
 * New measurement/route (reset button)
+
+* **Languages**: HTML, JavaScript, CSS
